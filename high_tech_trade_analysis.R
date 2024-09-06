@@ -1,19 +1,3 @@
----
-title: "High-tech trade analysis in Poland"
-output:
-  html_document:
-    df_print: paged
-  pdf_document: default
-  github_document:
-    html_preview: false
-warnings: no
----
-<b>Author:</b> Przemyslaw Niedziela (przemyslaw.niedziela98@gmail.com) <br> 
-<b>Date:</b> August 2024 <br>
-
-Everything explained in <br> [the analysis documentation](https://docs.google.com/document/d/1vRxHktMtdoP6s83Nn1n3_Xa-nBSd2VSwi1NKaAbl4TQ/edit) <br> 
-
-
 ```{r}
 library(dplyr)
 library(tidyr)
